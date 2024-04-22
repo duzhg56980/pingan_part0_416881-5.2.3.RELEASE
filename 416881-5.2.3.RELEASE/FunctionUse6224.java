@@ -1,0 +1,7 @@
+import org.springframework.web.util.HierarchicalUriComponents.EncodeState;
+public class FunctionUse6224 {
+public void funcUse() {
+EncodeState encodestate = new EncodeState();
+encodestate.values();
+}
+}

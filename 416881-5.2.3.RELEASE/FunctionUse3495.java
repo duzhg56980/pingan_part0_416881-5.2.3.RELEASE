@@ -1,0 +1,6 @@
+import org.springframework.web.accept.ContentNegotiationManager;
+public class FunctionUse3495 {
+public void funcUse() {
+ContentNegotiationManager contentnegotiationmanager = new ContentNegotiationManager();
+}
+}

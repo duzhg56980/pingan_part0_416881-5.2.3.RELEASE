@@ -1,0 +1,7 @@
+import org.springframework.web.filter.ShallowEtagHeaderFilter.HttpStreamingAwareContentCachingResponseWrapper;
+public class FunctionUse5287 {
+public void funcUse() {
+HttpStreamingAwareContentCachingResponseWrapper httpstreamingawarecontentcachingresponsewrapper = new HttpStreamingAwareContentCachingResponseWrapper();
+httpstreamingawarecontentcachingresponsewrapper.getWriter();
+}
+}
